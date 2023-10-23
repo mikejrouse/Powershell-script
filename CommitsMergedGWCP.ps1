@@ -23,7 +23,7 @@
 # $bitbucketApiUrl = "https://bitbucket.emcdev.guidewire.net/rest/api/1.0/projects/IS/repos/"
 # 
 #####################
-$bitbucketBearerToken = "NzA0NzI0NjE3MDk4OilP1yoSgK/9YsM1Ysz/Vt36w9q8"
+$bitbucketBearerToken = "asdf"
 $bitbucketApiUrl = "https://bitbucket.emc.dev-1.us-east-1.guidewire.net/rest/api/1.0/projects/CORECON/repos/"
 $reportFile="c:/bitbucket/report.csv" ##report file location
 
