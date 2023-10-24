@@ -24,7 +24,7 @@
 # 
 #####################
 $bitbucketBearerToken = "asdf"
-$bitbucketApiUrl = "https://bitbucket.emc.dev-1.us-east-1.guidewire.net/rest/api/1.0/projects/CORECON/repos/"
+$bitbucketApiUrl = "https://bitbucket.asdf.guidewire.net/rest/api/1.0/projects/asdf/repos/"
 $reportFile="c:/bitbucket/report.csv" ##report file location
 
 $bcRepoName="BillingCenter"
